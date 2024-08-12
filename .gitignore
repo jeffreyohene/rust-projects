@@ -1,0 +1,5 @@
+# Exclude all target directories recursively
+**/target/
+
+# Exclude all .vscode directories recursively
+**/.vscode/
